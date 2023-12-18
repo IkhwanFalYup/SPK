@@ -13,8 +13,8 @@ to run the web app simply  use
 Install postman 
 https://www.postman.com/downloads/
 
-get laptop list
-<img src='img/get_laptop.png' alt='laptop list'/>
+get komputer list
+<img src='img/get_komputer.png' alt='laptop list'/>
 
 get recommendations saw
 <img src='img/get_saw.png' alt='recommendations saw'/>
