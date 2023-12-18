@@ -1,0 +1,5 @@
+USER = 'postgres'
+PASSWORD = '100501'
+HOST = 'localhost'
+PORT = '5432'
+DATABASE_NAME = 'pemilihan_komputer'
