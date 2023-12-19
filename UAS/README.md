@@ -26,13 +26,15 @@ get recommendations wp
 Implementasikan model yang sudah anda buat ke dalam web api dengan http method `POST`
 
 INPUT:
-{
-    "harga": 3, 
-    "vga": 6, 
-    "ram": 3, 
-    "processor": 5, 
-    "penyimpanan_internal": 3
-}
+
+ {
+		"harga": 3, 
+		"vga": 6, 
+		"ram": 3, 
+		"processor": 5, 
+		"penyimpanan_internal": 3
+		}
+
 
 OUTPUT (diurutkan / sort dari yang terbesar ke yang terkecil):
 
