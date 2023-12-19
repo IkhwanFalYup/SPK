@@ -38,8 +38,8 @@ input body request (bobot) :
 
 OUTPUT (diurutkan / sort dari yang terbesar ke yang terkecil):
 
-post saw
-<img src='img/post_wp.png' alt='recommendations saw'/>
+post recommendations saw
+<img src='img/post_saw.png' alt='recommendations saw'/>
 
-get wp
-<img src='img/get_wp.png' alt='recommendations wp'/>
+post recommendations wp
+<img src='img/post_wp.png' alt='recommendations wp'/>
