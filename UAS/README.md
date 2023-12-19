@@ -22,12 +22,13 @@ get recommendations saw
 get recommendations wp
 <img src='img/get_wp.png' alt='recommendations wp'/>
 
+
 ### TUGAS UAS
-Implementasikan model yang sudah anda buat ke dalam web api dengan http method `POST`
+Implementasikan model yang sudah anda buat ke dalam web api dengan http method `POST`  
 
-INPUT:
+input body request (bobot) :
 
- {
+    {
 		"harga": 3, 
 		"vga": 6, 
 		"ram": 3, 
@@ -35,11 +36,10 @@ INPUT:
 		"penyimpanan_internal": 3
 		}
 
-
 OUTPUT (diurutkan / sort dari yang terbesar ke yang terkecil):
 
-post recommendations saw
-<img src='img/post_saw.png' alt='recommendations saw'/>
+post saw
+<img src='img/post_wp.png' alt='recommendations saw'/>
 
-post recommendations wp
-<img src='img/post_wp.png' alt='recommendations wp'/>
+get wp
+<img src='img/get_wp.png' alt='recommendations wp'/>
